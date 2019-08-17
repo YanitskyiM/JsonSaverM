@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29201.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "YanitskyiGLTest", "YanitskyiGLTest\YanitskyiGLTest.csproj", "{46F55867-8954-4925-90E9-E587EC9AEC73}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{46F55867-8954-4925-90E9-E587EC9AEC73}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{46F55867-8954-4925-90E9-E587EC9AEC73}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{46F55867-8954-4925-90E9-E587EC9AEC73}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{46F55867-8954-4925-90E9-E587EC9AEC73}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {75DD3A4D-E8DA-416F-B0B9-5189BB90AA45}
+	EndGlobalSection
+EndGlobal
